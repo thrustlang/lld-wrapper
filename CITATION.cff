@@ -8,10 +8,10 @@ authors:
   - given-names: Stevens Benavides
     family-names: DevCheckOG
     email: foss.stevens.benavides@gmail.com
-repository-code: 'https://github.com/thrushlang/lld-wrapper'
-url: 'https://github.com/thrushlang'
+repository-code: 'https://github.com/thrustlang/lld-wrapper'
+url: 'https://github.com/thrustlang'
 abstract: LLVM Linker (LLD) wrapper in Rust.
 keywords:
   - Programming Language
-  - Thrush Programming Language
+  - Thrust Programming Language
 license: GPL-3.0
