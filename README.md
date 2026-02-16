@@ -1,8 +1,8 @@
-<img src= "https://github.com/thrushlang/.github/blob/main/assets/logos/thrushlang-logo-name.png" alt= "logo" style= "width: 80%; height: 80%;"> </img>
+<img src= "https://github.com/thrustlang/.github/blob/main/assets/logos/thrushlang-logo-name.png" alt= "logo" style= "width: 80%; height: 80%;"> </img>
 
 ## LLVM Linker Wrapper
 
-A small library that bridges the C++ LLVM Linker (LLD) API to Rust, for use with the Thrush compiler as an integrated linker.
+A small library that bridges the C++ LLVM Linker (LLD) API to Rust, for use with the Thrust compiler as an integrated linker.
 
 ### Flavors
 
